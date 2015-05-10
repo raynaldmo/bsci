@@ -1,0 +1,15 @@
+{
+  "name": "bsci",
+  "version": "0.0.0",
+  "authors": [
+    "Raynald Mompoint <raynaldmo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
